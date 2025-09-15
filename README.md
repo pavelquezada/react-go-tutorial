@@ -1,3 +1,5 @@
+React Go Tutorial
+
 Tutorial from this video: https://www.youtube.com/watch?v=lNd7XlXwlho
 
 Some commands and libraries applied for this:
@@ -12,3 +14,6 @@ https://direnv.net/
 
 Mongo db driver:
 go get go.mongodb.org/mongo-driver/mongo
+
+https://tanstack.com/
+npm i @tanstack/react-query
